@@ -37,7 +37,7 @@ veracode_static_scan:
   issues:
     trigger: true
     commands:
-      - "Veracode Static Scan"
+      - "static"
 
 veracode_sca_scan:
   push:
